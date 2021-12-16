@@ -48,6 +48,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: Certificate in Environmental and Sustainability Economics
+      university: Arizona State University
+      time: 2017 - present
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: BA in Economics and Environmental Studies
       university: Coe College
       time: 2013 - 2017
