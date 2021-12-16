@@ -74,9 +74,6 @@ education:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: "'A la carte' management of recreational resources: Evidence from the U.S. Gulf of Mexico [In review]"
         link: "https://drive.google.com/file/d/1tC7aqO1v7NvYJDmDEPGsEQ5p36cc0sBO/view?usp=sharing"
