@@ -35,11 +35,11 @@ career-profile:
       recreation in the face of multi-scalar dilemmas that characterize the Anthropocene.
       I use a range of methological tools in my research, including: bibliometric analysis,
       complex adaptive systems modeling, causal inference methods, and structural estimation
-      and simulation using stated preference data.
+      and policy simulation using stated preference data.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Sustainability
+      university: Arizona State University
+      time: 2017 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -48,9 +48,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BA in Economics and Environmental Studies
+      university: Coe College
+      time: 2013 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
