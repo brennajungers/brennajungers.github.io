@@ -30,12 +30,12 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PhD student at Arizona State University's School of Sustainability.
+      My research focuses on the management of natural resources for nature-based
+      recreation in the face of multi-scalar dilemmas that characterize the Anthropocene.
+      I use a range of methological tools in my research, including: bibliometric analysis,
+      complex adaptive systems modeling, causal inference methods, and structural estimation
+      and simulation using stated preference data.
 education:
     - degree: MSc in Computer Science
       university: University of London
