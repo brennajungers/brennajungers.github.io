@@ -25,7 +25,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.dropbox.com/s/24q5gw0wdsdzbcw/Jungers_CV.pdf?dl=0
 
 career-profile:
     title: About
@@ -75,10 +75,10 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: "'A la carte' management of recreational resources: Evidence from the U.S. Gulf of Mexico [In review]"
-        link: "https://drive.google.com/file/d/1tC7aqO1v7NvYJDmDEPGsEQ5p36cc0sBO/view?usp=sharing"
+      - title: "'A la carte' management of recreational resources: Evidence from the U.S. Gulf of Mexico"
+        link: "https://www.dropbox.com/s/y0gy715weaftvcn/Recreation_A_La_Carte-2.pdf?dl=0"
         authors: Jungers, B., Abbott, J.K., Lloyd-Smith, P., Adamowicz, W., Willard, D.
-        conference:
+        conference: Under review at Land Economics.
 
 
 footer: >
