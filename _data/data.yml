@@ -71,14 +71,14 @@ education:
 
 publications:
     title: Research
-    intro: <h1> Peer-Reviewed Journal Articles </h1> #|
+    intro: <h3> Peer-Reviewed Journal Articles </h3> #|
     papers:
       - title: "À la carte management of recreational resources: Evidence from the U.S. Gulf of Mexico"
         link: "http://le.uwpress.org/content/early/2022/09/14/le.112421-0140R.full.pdf+html"
         authors: <b> Jungers, B. </b> , Abbott, J.K., Lloyd-Smith, P., Adamowicz, W., Willard, D.
         conference: In press at Land Economics.
 
-    #intro: <b> Manuscripts in Review <b>
+    intro: <h3> Manuscripts in Review </h3>
     #papers: 
       #- title: "A shock to the commons: Nonprofits and philanthropy in the wake of climate disaster"
         #authors: <b> Jungers, B. </b> , Perry, E., Westberg, D.E.
