@@ -76,14 +76,13 @@ publications:
 articles:
     title: Peer-Reviewed Journal Articles
     papers:
-
-manuscripts:
-    title: Manuscripts in Review
-    papers:
       - title: "À la carte management of recreational resources: Evidence from the U.S. Gulf of Mexico"
         link: "http://le.uwpress.org/content/early/2022/09/14/le.112421-0140R.full.pdf+html"
         authors: <b> Jungers, B. </b> , Abbott, J.K., Lloyd-Smith, P., Adamowicz, W., Willard, D.
         conference: In press at Land Economics.
+manuscripts:
+    title: Manuscripts in Review
+    papers:
       - title: "A shock to the commons: Nonprofits and philanthropy in the wake of climate disaster"
         authors: <b> Jungers, B. </b> , Perry, E., Westberg, D.E.
 
