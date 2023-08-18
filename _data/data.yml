@@ -70,8 +70,8 @@ education:
           - Bullet point
 
 publications:
-    title: Publications
-    intro: |
+    title: Research
+    intro: Peer-Reviewed Journal Articles #|
     papers:
       - title: "'A la carte' management of recreational resources: Evidence from the U.S. Gulf of Mexico"
         link: "http://le.uwpress.org/content/early/2022/09/14/le.112421-0140R.full.pdf+html"
