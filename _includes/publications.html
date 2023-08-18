@@ -16,13 +16,17 @@
   </div><!--//intro-->
   {% endif %}
 
-  #New section
   {% if publications.articles %}
   <div>
     {{ publications.articles | markdownify }}
   </div>
   {% endif %}
-  #End new section
+
+  {% if publications.manuscripts %}
+  <div>
+    {{ publications.manuscripts | markdownify }}
+  </div>
+  {% endif %}
 
   {% for publication in publications.papers %}
   <div class="item">
