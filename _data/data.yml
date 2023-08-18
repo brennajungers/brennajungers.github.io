@@ -71,31 +71,18 @@ education:
 
 publications:
     title: Research
-
-articles:
-    title: Peer-Reviewed Journal Articles
+    intro: |
     papers:
       - title: "À la carte management of recreational resources: Evidence from the U.S. Gulf of Mexico"
         link: "http://le.uwpress.org/content/early/2022/09/14/le.112421-0140R.full.pdf+html"
         authors: <b> Jungers, B. </b> , Abbott, J.K., Lloyd-Smith, P., Adamowicz, W., Willard, D.
         conference: In press at Land Economics.
-
-#manuscripts:
-    #title: Manuscripts in Review
-    #papers:
       - title: "A shock to the commons: Nonprofits and philanthropy in the wake of climate disaster"
         authors: <b> Jungers, B. </b> , Perry, E., Westberg, D.E.
-
       - title: "Resource Economics of Recreational Fishing"
         authors: Melstrom, R.T., <b> Jungers, B. </b> , Bi, X., Abbott, J.K.
         conference: In: Pope, K., R. Arlinghaus, L. Hunt, A. Lynch, and B. van Poorten (eds.) Understanding Recreational Fishers: Disciplinary and Interdisciplinary Approaches for Fisheries Management
 
-#workingpapers:
-    #title: Working Papers
-
-
-#wips:
-    #title: Works in Progress
 
 
 footer: >
