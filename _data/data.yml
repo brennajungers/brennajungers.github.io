@@ -71,7 +71,6 @@ education:
 
 publications:
     title: Research
-    <h5> Peer-Reviewed Journal Articles </h5>
     papers:
       - title: "À la carte management of recreational resources: Evidence from the U.S. Gulf of Mexico"
         link: "http://le.uwpress.org/content/early/2022/09/14/le.112421-0140R.full.pdf+html"
@@ -79,7 +78,9 @@ publications:
         conference: In press at Land Economics.
 
 
-
+test:
+    title: Test
+    papers:
       - title: "A shock to the commons: Nonprofits and philanthropy in the wake of climate disaster"
         authors: <b> Jungers, B. </b> , Perry, E., Westberg, D.E.
 
