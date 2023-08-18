@@ -16,25 +16,25 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% if publications.articles %}
+  {% if publications.articleshead %}
   <div>
     {{ publications.articles | markdownify }}
   </div>
   {% endif %}
 
-  {% if publications.manuscripts %}
+  {% if publications.manuscriptshead %}
   <div>
     {{ publications.manuscripts | markdownify }}
   </div>
   {% endif %}
 
-  {% if publications.workingpapers %}
+  {% if publications.workingpapershead %}
   <div>
     {{ publications.workingpapers | markdownify }}
   </div>
   {% endif %}
 
-  {% if publications.wip %}
+  {% if publications.wiphead %}
   <div>
     {{ publications.wip | markdownify }}
   </div>
