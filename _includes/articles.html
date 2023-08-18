@@ -6,12 +6,6 @@
     {{ articles.title }}
   </h5>
   
-  {% if articles.intro %}
-  <div class="intro">
-    {{ articles.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
-  
   {% for publication in articles.papers %}
   <div class="item">
     {% if publication.link %}
