@@ -85,8 +85,8 @@ manuscripts:
     papers:
       - title: "A shock to the commons: Nonprofits and philanthropy in the wake of climate disaster"
         authors: <b> Jungers, B. </b> , Perry, E., Westberg, D.E.
-      - title: "Resource Economics of Recreational Fishing"
-        authors: Melstrom, R.T., <b> Jungers, B. </b> , Bi, X., Abbott, J.K.
+      #- title: "Resource Economics of Recreational Fishing"
+        #authors: Melstrom, R.T., <b> Jungers, B. </b> , Bi, X., Abbott, J.K.
         #conference: In: Pope, K., R. Arlinghaus, L. Hunt, A. Lynch, and B. van Poorten (eds.) Understanding Recreational Fishers: Disciplinary and Interdisciplinary Approaches for Fisheries Management
 
     #intro: <b> Working Papers <b>
