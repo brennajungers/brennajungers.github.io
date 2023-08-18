@@ -90,12 +90,12 @@ manuscripts:
         authors: Melstrom, R.T., <b> Jungers, B. </b> , Bi, X., Abbott, J.K.
         conference: In: Pope, K., R. Arlinghaus, L. Hunt, A. Lynch, and B. van Poorten (eds.) Understanding Recreational Fishers: Disciplinary and Interdisciplinary Approaches for Fisheries Management
 
-workingpapers:
-    title: Working Papers
+#workingpapers:
+    #title: Working Papers
 
 
-wips:
-    title: Works in Progress
+#wips:
+    #title: Works in Progress
 
 
 footer: >
