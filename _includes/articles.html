@@ -1,0 +1,28 @@
+{% assign articles = site.data.data.articles %}
+{% if articles %}
+<section class="section articles-section">
+
+  <h5 class="section-title">
+    {{ articles.title }}
+  </h5>
+  
+  {% if articles.intro %}
+  <div class="intro">
+    {{ articles.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+  
+  {% for publication in articles.papers %}
+  <div class="item">
+    {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
+      <li>{{ publication.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
