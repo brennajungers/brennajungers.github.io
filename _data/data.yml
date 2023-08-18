@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Brenna Jungers
-    tagline: PhD Candidate, ASU
+    tagline: Assistant Professor, Mississippi State
     avatar: headshotGit.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: brenna.jungers@asu.edu
+    email: brenna.jungers@msstate.edu
     #phone: 012 345 6789
-    #website: blog.webjeda.com #do not add http://
+    website: brennajungers.github.io #do not add http://
     linkedin: brennajungers
     #xing: alandoe
     #github: sharu725
@@ -30,16 +30,14 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am a PhD student at Arizona State University's School of Sustainability.
-      My research focuses on the management of natural resources for nature-based
-      recreation in the face of multi-scalar dilemmas that characterize the Anthropocene.
-      I use a range of methological tools in my research, including: bibliometric analysis,
-      complex adaptive systems modeling, causal inference methods, and structural estimation
+      I am an Assistant Professor of Environmental and Natural Resource Economics in the Department of Agricultural Economics at Mississippi State University.
+      My research is motivated by questions of natural resource management in an era of unprecedented environmental change.
+      I use a range of methological tools in my research, including: complex adaptive systems modeling, archetype analysis, causal inference methods, and structural estimation
       and policy simulation using stated preference data.
 education:
     - degree: PhD in Sustainability
       university: Arizona State University
-      time: 2017 - present
+      time: 2017 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -48,9 +46,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Certificate in Environmental and Sustainability Economics
+    - degree: Graduate Certificate in Environmental and Sustainability Economics
       university: Arizona State University
-      time: 2017 - present
+      time: 2017 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
