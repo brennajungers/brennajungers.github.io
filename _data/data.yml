@@ -91,10 +91,21 @@ manuscripts:
         authors: Melstrom, R.T., <b> Jungers, B. </b> , Bi, X., Abbott, J.K.
         conference: "In Pope, K., R. Arlinghaus, L. Hunt, A. Lynch, and B. van Poorten (eds.) 'Understanding Recreational Fishers: Disciplinary and Interdisciplinary Approaches for Fisheries Management'"
 
-    #intro: <b> Working Papers <b>
+workingpapers:
+    title: Working Papers
+    papers:
+      - title: "Money can't buy me fish: Lessons from an incentivized harvest program"
+        authors: <b> Jungers, B. </b>, Abbott, J.K., Bair, L.S.
+
+      - title: "Establishing a typology of dilemmas faced by recreation managers"
+        authors: <b> Jungers, B. </b>
 
 
-    #intro: <b> Works in Progress <b>
+wips:
+    title: Works in Progress
+    papers:
+      - title: "Follow up survey on Lees Ferry anglers' willingness-to-accept compensation to retain brown trout"
+        authors: <b> Jungers, B. </b>, Abbott, J.K., Bair, L.S.
 
 
 footer: >
